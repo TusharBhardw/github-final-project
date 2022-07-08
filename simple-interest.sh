@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # TUSHAR BHARDWAJ
 
    # Input:
    # p, principal amount
